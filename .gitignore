@@ -1,0 +1,4 @@
+out/
+.cache/
+.DS_STORE
+compile_commands.json
